@@ -1,0 +1,20 @@
+{
+  "tipos_comprobante_disponibles": [
+    {
+      "codigo_tipo": "01",
+      "descripcion_tipo": "Diferencia de Cambio"
+    },
+    {
+      "codigo_tipo": "02",
+      "descripcion_tipo": "Ajuste por retardo en el pago"
+    },
+    {
+      "codigo_tipo": "03",
+      "descripcion_tipo": "Agregado de producto"
+    },
+    {
+      "codigo_tipo": "04",
+      "descripcion_tipo": "Cambio en Alícuota IVA"
+    }
+  ]
+}
